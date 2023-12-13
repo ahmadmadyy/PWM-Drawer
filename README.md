@@ -6,3 +6,6 @@
 
 ### Here is the code flowcart:
 ![FlowChart](https://github.com/ahmadmadyy/PWM-Drawer/assets/98853949/9d5b46f6-c4a8-4ad4-bad5-12238f67a03c)
+
+### Screenshot of the simulation: 
+![Screenshot (480)](https://github.com/ahmadmadyy/PWM-Drawer/assets/98853949/1956e77e-ec0a-4875-90cc-ba855fdd7641)
